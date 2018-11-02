@@ -1,0 +1,28 @@
+{
+  "name": "radheat-site",
+  "version": "1.0.0",
+  "description": "website code for radheat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-way/radheat-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matt-way/radheat-site/issues"
+  },
+  "homepage": "https://github.com/matt-way/radheat-site#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  }
+}
